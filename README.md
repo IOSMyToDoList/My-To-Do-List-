@@ -9,7 +9,7 @@ Time spent: **X** hours spent in total
 
 The following **required** user stories are complete:
 
-- [ ] 
+- [ ] User can 
 - [ ]
 - [ ] 
 - [ ]
