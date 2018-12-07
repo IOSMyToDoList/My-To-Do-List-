@@ -1,14 +1,14 @@
 //
-//  AddTableViewController.swift
+//  AddTodoViewController.swift
 //  MyToDoList
 //
-//  Created by Stephanie on 12/7/18.
+//  Created by Karina Vicente on 12/7/18.
 //  Copyright © 2018 Karina Vicente And Stephanie Villalobos. All rights reserved.
 //
 
 import UIKit
 
-class AddTableViewController: UIViewController {
+class AddTodoViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
